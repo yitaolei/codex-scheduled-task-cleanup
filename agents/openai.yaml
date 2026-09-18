@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codex Scheduled Task Cleanup"
+  short_description: "Clean stale Codex scheduled-run sidebar entries safely on macOS"
